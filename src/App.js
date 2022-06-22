@@ -7,7 +7,7 @@ import img4 from './img/cat-4.jpg'
 
 function App() {
   return (
-    <div className="App">
+    <div className="contacts">
       <Contact 
         img={img1}
         name= 'Mr. Whiskerson'
